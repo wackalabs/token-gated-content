@@ -1,19 +1,12 @@
-# 🏗 scaffold-eth - 👮 Token Gated Content
+# enepti-contracts - 👮 Token Gated Content
 
 > Private content is only exposed if a user signs a message to prove they own a token
 
----
-
-⚠️ This branch extends the [sign in with web3 branch](https://github.com/austintgriffith/scaffold-eth/tree/sign-in-with-web3) (You should start there!)
-
----
-
 ```bash
-git clone https://github.com/austintgriffith/scaffold-eth.git token-gated-content
+git clone https://github.com/enepti/token-gated-content.git token-gated-content
 
 cd token-gated-content
 
-git checkout token-gated-content
 ```
 
 ```bash
@@ -73,16 +66,3 @@ The backend makes sure the signature is correct and serves the hidden content on
 If they have ETH, it displays a special video:
 
 ![image](https://user-images.githubusercontent.com/2653167/122679199-2f67af80-d1a7-11eb-9689-9a79b48b35f5.png)
-
-
----
-
-## 💬 Support Chat
-
-Join the telegram [support chat 💬](https://t.me/joinchat/KByvmRe5wkR-8F_zz6AjpA)  to ask questions and find others building with 🏗 scaffold-eth!
-
----
-
-===================================================== [⏫ back to the top ⏫](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth)
-
----

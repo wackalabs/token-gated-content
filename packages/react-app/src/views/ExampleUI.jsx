@@ -165,12 +165,6 @@ export default function ExampleUI({purpose, setPurposeEvents, address, mainnetPr
 
       <div style={{ width:600, margin: "auto", marginTop:32, paddingBottom:256 }}>
 
-        <Card>
-
-          Check out all the <a href="https://github.com/austintgriffith/scaffold-eth/tree/master/packages/react-app/src/components" target="_blank" rel="noopener noreferrer">📦  components</a>
-
-        </Card>
-
         <Card style={{marginTop:32}}>
 
           <div>
